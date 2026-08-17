@@ -1,4 +1,4 @@
-package com.financas.controledespesas.modules.categoria.model.repository;
+package com.financas.controledespesas.modules.categoria.repository;
 
 import java.util.List;
 import java.util.Optional;

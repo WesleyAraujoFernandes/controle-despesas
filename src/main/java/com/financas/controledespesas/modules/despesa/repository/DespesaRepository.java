@@ -1,4 +1,4 @@
-package com.financas.controledespesas.modules.categoria.model.repository;
+package com.financas.controledespesas.modules.despesa.repository;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

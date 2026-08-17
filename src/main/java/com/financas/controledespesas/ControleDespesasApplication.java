@@ -1,4 +1,4 @@
-package com.financas.controle_despesas;
+package com.financas.controledespesas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
